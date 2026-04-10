@@ -8,13 +8,13 @@ This repository publishes public release assets for the closed-source `officecli
 
 ```bash
 brew tap officecli/officecli
-brew install officecli/officecli/officecli
+brew install officecli
 ```
 
 To update later:
 
 ```bash
-brew upgrade officecli/officecli/officecli
+brew upgrade officecli
 ```
 
 ### Linux
